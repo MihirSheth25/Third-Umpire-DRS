@@ -1,0 +1,7 @@
+opencv-python~=4.5.4.58
+numpy~=1.21.4
+imutils~=0.5.4
+matplotlib~=3.4.3
+pydantic~=1.8.2
+tabulate~=0.8.9
+scikit-learn~=1.0.1
